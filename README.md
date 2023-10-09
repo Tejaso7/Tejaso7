@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [tejassawant.netllify.app](tejassawant.netllify.app)
 
-- 📝 I regularly write articles on [⚙ technology](⚙ technology)
-
 - 💬 Ask me about **DATA SCIENCE || DATA STRUCTURE & ALGORITHM || PYTHON ||**
 
 - 📫 How to reach me **tejusawant302@gmail.com**
