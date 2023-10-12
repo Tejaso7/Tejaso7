@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaso7" alt="tejaso7" /></a> </p>
 
-- 🔭 I’m currently working on [E-Court](Django)
+- 🔭 I’m currently working on [My_Portfolio]
 
 - 🌱 I’m currently learning **Machine Learning & Artificial intelligence**
 
