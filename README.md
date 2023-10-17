@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style=color:"red";>Tejas Sawant</span></h1>
+<h1 align="center">Hii 👋, I'm <span style=color:"red";>Tejas Sawant</span></h1>
 <h3 align="center">A passionate AI & ML Engineer , Data Analyst,frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaso7&label=Profile%20views&color=0e75b6&style=flat" alt="tejaso7" /> </p>
