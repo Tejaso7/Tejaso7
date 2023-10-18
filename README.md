@@ -33,6 +33,7 @@
 <a href="https://linkedin.com/in/tejas-sawant-3a9b5820b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas-sawant-3a9b5820b" height="30" width="40" /></a>
 <a href="https://instagram.com/_ts_kingmaker_oo7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ts_oo7_" height="30" width="40" /></a>
 </p>
+
 [![Giphy](https://media.giphy.com/media/TyNiKSSbpMcoveJ75f/giphy.gif)](https://giphy.com/stickers/transparent-TyNiKSSbpMcoveJ75f)
 
 
