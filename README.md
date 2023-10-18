@@ -3,7 +3,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tejaso7&label=Profile%20views&color=0e75b6&style=flat" alt="tejaso7" /> </p>
 
  [![Giphy](https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif)]()
-[![Giphy](https://media.giphy.com/media/TyNiKSSbpMcoveJ75f/giphy.gif)]()
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaso7" alt="tejaso7" /></a> </p>
