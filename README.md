@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaso7" alt="tejaso7" /></a> </p>
 
 [![Giphy Video](https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif)](https://giphy.com/gifs/artificial-intelligence-singularity-CVtNe84hhYF9u)
-
+[![Giphy](https://media.giphy.com/media/TyNiKSSbpMcoveJ75f/giphy.gif)](https://giphy.com/stickers/transparent-TyNiKSSbpMcoveJ75f)
 
 
 
@@ -34,7 +34,7 @@
 <a href="https://instagram.com/_ts_kingmaker_oo7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ts_oo7_" height="30" width="40" /></a>
 </p>
 
-[![Giphy](https://media.giphy.com/media/TyNiKSSbpMcoveJ75f/giphy.gif)](https://giphy.com/stickers/transparent-TyNiKSSbpMcoveJ75f)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
