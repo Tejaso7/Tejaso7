@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaso7" alt="tejaso7" /></a> </p>
 
-[![Giphy GIF](https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif)](https://giphy.com/stickers/CETDesigner-code-developer-software-development-lnaoFgGrDHnivdu5Bc)
+[![Giphy GIF](https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif)]()
 [![Giphy GIF](https://media.giphy.com/media/Sxf07TUhrCZ7cneR0k/giphy.gif)](https://giphy.com/stickers/Decskill-transparent-Sxf07TUhrCZ7cneR0k)
 
 
