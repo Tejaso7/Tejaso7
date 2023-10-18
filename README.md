@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaso7" alt="tejaso7" /></a> </p>
 
-![Hacker GIF](https://raw.githubusercontent.com/yourusername/yourrepository/master/images/hacker.gif)
+[![Watch the video](IMAGE_URL)](https://giphy.com/gifs/ai-maze-artificial-intelligence-1fgLkB8QIZO5KdQLL8)
+
 
 
 - 🔭 I’m currently working on [My_Portfolio](https://tejassawantportfolio.vercel.app/)
