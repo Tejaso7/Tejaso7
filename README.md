@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaso7" alt="tejaso7" /></a> </p>
 
-[![Giphy Video](https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif)](https://giphy.com/gifs/artificial-intelligence-singularity-CVtNe84hhYF9u)
+[![Giphy GIF](https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif)](https://giphy.com/stickers/CETDesigner-code-developer-software-development-lnaoFgGrDHnivdu5Bc)
+
 
 
 
