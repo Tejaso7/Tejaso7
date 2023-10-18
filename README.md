@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaso7" alt="tejaso7" /></a> </p>
 
-[![Watch the video](IMAGE_URL)](https://giphy.com/gifs/ai-maze-artificial-intelligence-1fgLkB8QIZO5KdQLL8)
+![Giphy GIF](https://media.giphy.com/media/1fgLkB8QIZO5KdQLL8/giphy.gif)
+
 
 
 
