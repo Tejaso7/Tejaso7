@@ -1,11 +1,11 @@
 <h1 align="center">Hii 👋, I'm <span style=color:"red";>Tejas Sawant</span></h1>
 <h3 align="center">A passionate AI & ML Engineer , Data Analyst,frontend developer from India</h3>
-   ![Hacker GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHIyYnFlenI0Z2lidnQ5bzljOTJhNGFmZnRjdnM0MGZ1dnFhNWRxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3S59TcvgxZK8kA45mu/giphy.gif)
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaso7&label=Profile%20views&color=0e75b6&style=flat" alt="tejaso7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaso7" alt="tejaso7" /></a> </p>
-
+[HackerGIF]https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHIyYnFlenI0Z2lidnQ5bzljOTJhNGFmZnRjdnM0MGZ1dnFhNWRxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3S59TcvgxZK8kA45mu/giphy.gif)
 - 🔭 I’m currently working on [My_Portfolio](https://tejassawantportfolio.vercel.app/)
 
 - 🌱 I’m currently learning **Machine Learning & Artificial intelligence**
