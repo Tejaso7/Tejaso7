@@ -1,4 +1,4 @@
-<h1 align="center">Hii 👋, I'm <span style=color:"red";>Tejas Sawant</span></h1> <br>
+<h2 align="center">Hii 👋,<br> I'm <h1 style=color:"red";>Tejas Sawant</h1></h2> <br>
 <h3 align="center">A passionate AI & ML Engineer , Data Analyst,frontend developer from India</h3><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tejaso7&label=Profile%20views&color=0e75b6&style=flat" alt="tejaso7" /> </p>
 
@@ -9,6 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaso7" alt="tejaso7" /></a> </p>
 
 [![Giphy GIF](https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif)](https://giphy.com/stickers/CETDesigner-code-developer-software-development-lnaoFgGrDHnivdu5Bc)
+[![Giphy GIF](https://media.giphy.com/media/Sxf07TUhrCZ7cneR0k/giphy.gif)](https://giphy.com/stickers/Decskill-transparent-Sxf07TUhrCZ7cneR0k)
 
 
 
