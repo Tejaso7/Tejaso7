@@ -1,6 +1,8 @@
 <h1 align="center">Hii 👋, I'm <span style=color:"red";>Tejas Sawant</span></h1>
 <h3 align="center">A passionate AI & ML Engineer , Data Analyst,frontend developer from India</h3>
- 
+
+ [![Giphy](https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif)](https://giphy.com/stickers/art-cartoon-illustration-3iyKHMIKg5VWG6qHUm)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaso7&label=Profile%20views&color=0e75b6&style=flat" alt="tejaso7" /> </p>
 
@@ -12,13 +14,8 @@
 
 
 
+
 - 🔭 I’m currently working on [My_Portfolio](https://tejassawantportfolio.vercel.app/)
-
-- 🌱 I’m currently learning **Machine Learning & Artificial intelligence**
-
-- 👯 I’m looking to collaborate on **Instagram**
-
-- 🤝 I’m looking for help with **AI & ML**
 
 - 👨‍💻 All of my projects are available at [tejassawant.netllify.app](tejassawant.netllify.app)
 
@@ -31,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tejas-sawant-3a9b5820b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas-sawant-3a9b5820b" height="30" width="40" /></a>
-<a href="https://instagram.com/_ts_kingmaker_oo7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ts_oo7_" height="30" width="40" /></a>
+<a href="https://instagram.com/_ts_oo7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ts_oo7_" height="30" width="40" /></a>
 </p>
 
 
