@@ -1,5 +1,83 @@
 <h1 align="center">Hii 👋, I'm <span style=color:"red";>Tejas Sawant</span></h1>
 <h3 align="center">A passionate AI & ML Engineer , Data Analyst,frontend developer from India</h3>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Colorful Particle Background with Bootstrap</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        /* Internal CSS for particle background */
+        #ts {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background-color: #ffffff;
+        }
+
+        /* Your custom styles */
+       
+    </style>
+</head>
+<body>
+    <!-- Particle Background Container -->
+    <div id="ts"></div>
+
+    <!-- Bootstrap container for content -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 content">
+                <h1>Welcome to My Website</h1>
+                <p>This is your colorful particle background. Customize it as needed.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript for particles -->
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script>
+        particlesJS("ts", {
+            particles: {
+                number: {
+                    value: 80, // Adjust the number of particles
+                    density: {
+                        enable: true,
+                        value_area: 800,
+                    },
+                },
+                color: {
+                    value: ["#FF5733", "#33FF6A", "#3333FF", "#FF33EC"], // Specify the colors
+                },
+                shape: {
+                    type: "circle",
+                },
+                opacity: {
+                    value: 0.5,
+                    random: false,
+                    anim: {
+                        enable: false,
+                    },
+                },
+                size: {
+                    value: 3,
+                    random: true,
+                },
+                move: {
+                    enable: true,
+                    speed: 2,
+                },
+            },
+            interactivity: {
+                events: {
+                    onhover: {
+                        enable: true,
+                        mode: "repulse",
+                    },
+                },
+            },
+        });
+    </script>
+</body>
+</html>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaso7&label=Profile%20views&color=0e75b6&style=flat" alt="tejaso7" /> </p>
 
