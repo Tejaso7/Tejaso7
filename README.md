@@ -1,9 +1,5 @@
 <h1 align="center">Hii 👋, I'm <span style=color:"red";>Tejas Sawant</span></h1>
 <h3 align="center">A passionate AI & ML Engineer , Data Analyst,frontend developer from India</h3>
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Colorful Particle Background with Bootstrap</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <style>
         /* Internal CSS for particle background */
@@ -15,10 +11,8 @@
         }
 
         /* Your custom styles */
-       
-    </style>
-</head>
-<body>
+</style>
+
     <!-- Particle Background Container -->
     <div id="ts"></div>
 
@@ -76,8 +70,6 @@
             },
         });
     </script>
-</body>
-</html>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaso7&label=Profile%20views&color=0e75b6&style=flat" alt="tejaso7" /> </p>
 
