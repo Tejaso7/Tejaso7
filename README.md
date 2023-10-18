@@ -5,6 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaso7&label=Profile%20views&color=0e75b6&style=flat" alt="tejaso7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaso7" alt="tejaso7" /></a> </p>
+![Hacker GIF](https://raw.githubusercontent.com/yourusername/yourrepository/master/images/hacker.gif)
+
+
 - 🔭 I’m currently working on [My_Portfolio](https://tejassawantportfolio.vercel.app/)
 
 - 🌱 I’m currently learning **Machine Learning & Artificial intelligence**
