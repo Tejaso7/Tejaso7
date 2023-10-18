@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI & ML Engineer , Data Analyst,frontend developer from India</h3><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tejaso7&label=Profile%20views&color=0e75b6&style=flat" alt="tejaso7" /> </p>
 
- [![Giphy](https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif)](https://giphy.com/stickers/art-cartoon-illustration-3iyKHMIKg5VWG6qHUm)
+ [![Giphy](https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif)]()
 [![Giphy](https://media.giphy.com/media/TyNiKSSbpMcoveJ75f/giphy.gif)](https://giphy.com/stickers/transparent-TyNiKSSbpMcoveJ75f)
 
 
