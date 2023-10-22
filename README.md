@@ -2,10 +2,10 @@
 <h3 align="center">A passionate AI & ML Engineer , Data Analyst,frontend developer from India</h3><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tejaso7&label=Profile%20views&color=0e75b6&style=flat" alt="tejaso7" /> </p>
  
-
+<div style="height: 500px; overflow-y: auto;">
 <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" alt="Your Image Description" width="300" />
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Your Image Description" width="300" />
-
+</div>
 
 
 
