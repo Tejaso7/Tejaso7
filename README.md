@@ -1,4 +1,5 @@
 <h1 align="center">Hii 👋, I'm <b>Tejas Sawant</b></h1> <br>
+
 ![Your Image Description](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 <h3 align="center">A passionate AI & ML Engineer , Data Analyst,frontend developer from India</h3><br>
@@ -49,51 +50,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
-<br>
-<pre align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="URL_TO_ARDUINO_IMAGE" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="URL_TO_BOOTSTRAP_IMAGE" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="URL_TO_C_IMAGE" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="URL_TO_CPLUSPLUS_IMAGE" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="URL_TO_CSS3_IMAGE" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="URL_TO_DJANGO_IMAGE" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="URL_TO_GIT_IMAGE" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="URL_TO_HTML5_IMAGE" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="URL_TO_LINUX_IMAGE" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="URL_TO_MYSQL_IMAGE" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="URL_TO_PANDAS_IMAGE" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="URL_TO_POSTGRESQL_IMAGE" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="URL_TO_PYTHON_IMAGE" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="URL_TO_SEABORN_IMAGE" alt="seaborn" width="40" height="40"/>
-  </a>
-</pre>
+
+![image](https://github.com/Tejaso7/Tejaso7/assets/115860482/847288c0-20d0-4d2d-8b97-9fe81c1424b5)
+
 
 
 
