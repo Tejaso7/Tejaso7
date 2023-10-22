@@ -52,48 +52,49 @@
 <br>
 <pre align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="arduino" width="40" height="40"/>
+    <img src="URL_TO_ARDUINO_IMAGE" alt="arduino" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="bootstrap" width="40" height="40"/>
+    <img src="URL_TO_BOOTSTRAP_IMAGE" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="c" width="40" height="40"/>
+    <img src="URL_TO_C_IMAGE" alt="c" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="cplusplus" width="40" height="40"/>
+    <img src="URL_TO_CPLUSPLUS_IMAGE" alt="cplusplus" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="css3" width="40" height="40"/>
+    <img src="URL_TO_CSS3_IMAGE" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="django" width="40" height="40"/>
+    <img src="URL_TO_DJANGO_IMAGE" alt="django" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="git" width="40" height="40"/>
+    <img src="URL_TO_GIT_IMAGE" alt="git" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="html5" width="40" height="40"/>
+    <img src="URL_TO_HTML5_IMAGE" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="linux" width="40" height="40"/>
+    <img src="URL_TO_LINUX_IMAGE" alt="linux" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="mysql" width="40" height="40"/>
+    <img src="URL_TO_MYSQL_IMAGE" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="pandas" width="40" height="40"/>
+    <img src="URL_TO_PANDAS_IMAGE" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="postgresql" width="40" height="40"/>
+    <img src="URL_TO_POSTGRESQL_IMAGE" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="40" height="40"/>
+    <img src="URL_TO_PYTHON_IMAGE" alt="python" width="40" height="40"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="seaborn" width="40" height="40"/>
+    <img src="URL_TO_SEABORN_IMAGE" alt="seaborn" width="40" height="40"/>
   </a>
 </pre>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaso7&show_icons=true&locale=en&layout=compact" alt="tejaso7" /></p><br>
