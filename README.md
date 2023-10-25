@@ -1,7 +1,7 @@
 <h1 align="center">Hii 👋, I'm <b>Tejas Sawant</b></h1> <br>
 
 ![Your Image Description](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a0d7e841-8056-4d9b-a27a-82e99c7de31a/deploy-status)](https://tejassawant.app.netlify.com)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a0d7e841-8056-4d9b-a27a-82e99c7de31a/deploy-status)](https://tejassawant.netlify.app)
 <h3 align="center">A passionate AI & ML Engineer , Data Analyst,frontend developer from India</h3><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tejaso7&label=Profile%20views&color=0e75b6&style=flat" alt="tejaso7" /><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Your Image Description" width="100">
  </p>
