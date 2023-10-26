@@ -23,6 +23,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaso7" alt="tejaso7" /></a> </p>
 <div align="center">
+  
 ![Your Image Description](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 - 🔭 I’m currently working on - [My_Portfolio](https://tejassawantportfolio.vercel.app/)
