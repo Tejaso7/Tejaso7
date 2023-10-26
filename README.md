@@ -13,7 +13,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tejaso7&label=Profile%20views&color=0e75b6&style=flat" alt="tejaso7" /><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Your Image Description" width="100">
  </p>
  
-<div style="height: 500px; overflow-y: auto;">
+<div style="height: 500px; overflow-y: auto;" align="center">
 <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" alt="Your Image Description" width="300" />
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Your Image Description" width="300" />
 </div>
@@ -21,8 +21,8 @@
 
 ![Your Image Description](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaso7" alt="tejaso7" /></a> </p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaso7" alt="tejaso7" /></a> </p>
+<div align="center">
 ![Your Image Description](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 - 🔭 I’m currently working on - [My_Portfolio](https://tejassawantportfolio.vercel.app/)
@@ -34,7 +34,7 @@
 - 📫 How to reach me - **tejusawant302@gmail.com**
   <br>
 ![Your Image Description](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
-
+</div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="center">Connect with me:</h3>
@@ -71,11 +71,12 @@
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=tejaso7&show_icons=true&theme=dark&locale=en" alt="tejaso7" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaso7&show_icons=true&theme=dark&locale=en&layout=compact" alt="tejaso7" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaso7&" alt="tejaso7" /></td> 
   </tr>
 </table>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaso7&" alt="tejaso7" /></p>
+
 <div align="center">
   
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
