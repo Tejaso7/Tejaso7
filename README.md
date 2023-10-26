@@ -19,15 +19,13 @@
 </div>
 
 <div align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
-![Your Image Description](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaso7" alt="tejaso7" /></a> </p>
 </div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
   
-![Your Image Description](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
-
  🔭 I’m currently working on - [My_Portfolio](https://tejassawantportfolio.vercel.app/)
 
  👨‍💻 All of my projects are available at [tejassawant.netllify.app](tejassawant.netllify.app)
@@ -36,8 +34,7 @@
 
  📫 How to reach me - **tejusawant302@gmail.com**
   <br>
-![Your Image Description](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
-</div>
+ </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="center">Connect with me:</h3>
@@ -46,7 +43,7 @@
 <a href="mailto:tejusawant302@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://instagram.com/_ts_oo7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ts_oo7_"  height='20'width="50" /></a>
 </p>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 
 <h3 align="center">💻Languages and Tools:</h3>
