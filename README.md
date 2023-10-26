@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-<a href="https://github.com/tejaso7"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+I+am+Tejas+Sawant;A+Passionate+Web+Developer+from+Pune,AI+&+ML+Engineer,Data+Analyst,Frontend+Developer"></a>
+<a href="https://github.com/tejaso7"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+I+am+Tejas+Sawant;A+Passionate+Web+Developer+from+Pune"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tejaso7&label=Profile%20views&color=0e75b6&style=flat" alt="tejaso7" /><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Your Image Description" width="100">
@@ -41,7 +41,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/tejas-sawant-3a9b5820b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/devika-pagare-a205861aa/"></a>
 <a href="mailto:tejusawant302@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://instagram.com/_ts_oo7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ts_oo7_"  height='30' /></a>
+<a href="https://instagram.com/_ts_oo7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ts_oo7_"  height='20'width="50" /></a>
 </p>
 
 <br>
