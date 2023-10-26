@@ -9,6 +9,7 @@
 <p align="center">
 <a href="https://github.com/tejaso7"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+I+am+Tejas+Sawant;A+Passionate+Web+Developer+from+Pune"></a>
 </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tejaso7&label=Profile%20views&color=0e75b6&style=flat" alt="tejaso7" /><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Your Image Description" width="100">
  </p>
