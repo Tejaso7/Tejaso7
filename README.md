@@ -3,7 +3,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
  <br>
- ꧁🚩जय श्री राम🚩꧂
+ <p>꧁🚩जय श्री राम🚩꧂</p>
  
  <br>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
