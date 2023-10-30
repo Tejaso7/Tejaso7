@@ -31,7 +31,7 @@
   
  🔭 I’m currently working on - [My_Portfolio](https://tejassawantportfolio.vercel.app/)
 
- 👨‍💻 All of my projects are available at [tejassawant.netllify.app](tejassawant.netllify.app)
+ 👨‍💻 All of my projects are available at [tejassawant.netllify.app](https://tejassawant.netllify.app)
 
  💬 Ask me about ❤️ **DATA SCIENCE || DATA STRUCTURE & ALGORITHM || PYTHON ||**
 
