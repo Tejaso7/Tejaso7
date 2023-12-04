@@ -74,7 +74,7 @@
 </div>
 
 <div align="center">
-  
+   
 ## Below are some of my favourite pinned repositories :point_down:
 
 <img align="center" src="https://emoji.gg/assets/emoji/7524_this_animated_bottom.gif">
