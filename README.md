@@ -6,8 +6,7 @@
  <p>꧁🚩जय श्री राम🚩꧂</p> 
  <br>
 
- #!/usr/bin/python
-# -*- coding: utf-8 -*-
+
 
 
 class FullStackDeveloper:
