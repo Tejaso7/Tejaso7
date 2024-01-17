@@ -5,6 +5,28 @@
  <br> 
  <p>꧁🚩जय श्री राम🚩꧂</p> 
  <br>
+
+ #!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class FullStackDeveloper:
+
+    def __init__(self):
+        self.first_name = "Tejas"
+        self.last_name = "Sawant"
+        self.edu = "B.E (Artificial Intelligence And Data Science)"
+        # Social Media
+        self.linkedin = "https://www.linkedin.com/in/tejas-sawant/"
+        self.twitter = "https://twitter.com/tejas07"
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = FullStackDeveloper()
+me.say_hi()
+
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
