@@ -16,8 +16,8 @@ class FullStackDeveloper:
         self.last_name = "Sawant"
         self.edu = "B.E (Artificial Intelligence And Data Science)"
         # Social Media
-        self.linkedin = "https://www.linkedin.com/in/tejas-sawant/"
-        self.twitter = "https://twitter.com/tejas07"
+        self.linkedin = "https://www.linkedin.com/in/tejas-sawant-3a9b5820b/"
+        self.twitter = "https://twitter.com/TejasSawantoo7"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
