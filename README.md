@@ -9,8 +9,9 @@
 
 
 
-class FullStackDeveloper:
 
+
+    class FullStackDeveloper:
     def __init__(self):
         self.first_name = "Tejas"
         self.last_name = "Sawant"
@@ -23,8 +24,8 @@ class FullStackDeveloper:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = FullStackDeveloper()
-me.say_hi()
+    me = FullStackDeveloper()
+    me.say_hi()
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
