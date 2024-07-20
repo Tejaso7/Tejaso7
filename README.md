@@ -54,7 +54,7 @@
 
  👨‍💻 All of my projects are available at [tejassawant.netlify.app](https://tejassawant.netlify.app)
 
- 💬 Ask me about ❤️ **DATA SCIENCE || DATA STRUCTURE & ALGORITHM || PYTHON ||**
+ 💬 Ask me about ❤️ **Web_Development [Django ] || DATA STRUCTURE & ALGORITHM || PYTHON ||**
 
  📫 How to reach me - **tejusawant302@gmail.com**
   <br>
