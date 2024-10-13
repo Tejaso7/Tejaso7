@@ -21,7 +21,7 @@
         self.twitter = "https://twitter.com/TejasSawantoo7"
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Thanks for Visiting, hope you find some of my work interesting.")
 
 
     me = FullStackDeveloper()
