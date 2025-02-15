@@ -3,7 +3,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header) 
 
  <br> 
- <p>꧁_Code_꧂</p> 
+ <p>꧁_Tejas Sawant_꧂</p> 
  <br>
 
 
